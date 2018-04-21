@@ -12,3 +12,16 @@
 	"Productos.h"
 	<string.h>
 
+1524314153 source:c:\users\alumno\desktop\git\clases-sabados\vectores paralelos abm (incompleto)\productos.c
+	<stdio.h>
+	"Productos.h"
+	<string.h>
+
+1524314153 c:\users\alumno\desktop\git\clases-sabados\vectores paralelos abm (incompleto)\productos.h
+
+1524323648 source:c:\users\alumno\desktop\git\clases-sabados\vectores paralelos abm (incompleto)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Productos.h"
+

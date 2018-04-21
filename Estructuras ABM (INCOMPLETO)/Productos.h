@@ -1,7 +1,7 @@
 
 typedef struct
 {
-
+    int estado;
 }eProducto;
 
 
